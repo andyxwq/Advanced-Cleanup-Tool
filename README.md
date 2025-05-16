@@ -35,7 +35,13 @@ Powershell
 schtasks /create /tn "AdvancedCleanup" /tr "C:\path\to\Advanced_Cleanup_Tool.bat" /sc weekly /rl highest
 🚀 Coming Soon in v2.0!
 
-🔹 Graphical User Interface (GUI) – A visual tool for easy cleanup. 🔹 Interactive Menu – Choose cleanup options without command lines. 🔹 Real-time Progress Bar – Track cleanup operations live. 🔹 More Automation Features – Smart scheduling and deeper system cleanup.
+🔹 Graphical User Interface (GUI) – A visual tool for easy cleanup. 
+
+🔹 Interactive Menu – Choose cleanup options without command lines. 
+
+🔹 Real-time Progress Bar – Track cleanup operations live.
+
+🔹 More Automation Features – Smart scheduling and deeper system cleanup.
 
 📩 Feedback & Contributions
 
