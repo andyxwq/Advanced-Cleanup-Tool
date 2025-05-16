@@ -20,7 +20,11 @@ Advanced Cleanup Tool v1.1
 
 📌 How to Run
 
-1️⃣ Download Advanced_Cleanup_Tool.bat from the Releases. 2️⃣ Right-click on the file → Select Run as Administrator for best results. 3️⃣ Wait for cleanup to complete – The system will free up storage and optimize performance.
+1️⃣ Download Advanced_Cleanup_Tool.bat from the Releases. 
+
+2️⃣ Right-click on the file → Select Run as Administrator for best results. 
+
+3️⃣ Wait for cleanup to complete – The system will free up storage and optimize performance.
 
 ⚙️ Optional: Automate with Task Scheduler
 
