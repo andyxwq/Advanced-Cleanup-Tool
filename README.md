@@ -3,6 +3,7 @@ Advanced Cleanup Tool v1.1
 🛠 A powerful system cleanup tool for Windows, optimized for speed and efficiency.
 
 🚀 Features
+
 ✅ Optimized CLI Cleanup Script – Improved speed and efficiency. 
 
 ✅ RAM Optimization – Automatically restarts Explorer.exe to free up memory.
