@@ -11,6 +11,7 @@ Advanced Cleanup Tool v1.1
 ✅ Disk Cleanup & Defragmentation – Integrated cleanmgr and defrag for better system performance. 
 
 ✅ Enhanced Logging System – Every cleanup action is now recorded in a log file. 
+
 ✅ Better Handling of Temporary Files – Safe deletion without affecting system stability. 
 
 ✅ Updated Browser Cache Cleanup – Efficient removal of old browser cache files.
