@@ -30,7 +30,7 @@ Advanced Cleanup Tool v1.1
 
 For regular cleanup, you can set up a scheduled task:
 
-Powershell: schtasks /create /tn "AdvancedCleanup" /tr "C:\path\to\Advanced_Cleanup_Tool.bat" /sc weekly /rl highest
+Powershell: "schtasks /create /tn "AdvancedCleanup" /tr "C:\path\to\Advanced_Cleanup_Tool.bat" /sc weekly /rl highest"
 
 🚀 Coming Soon in v2.0!
 
