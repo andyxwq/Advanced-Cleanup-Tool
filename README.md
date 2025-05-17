@@ -53,13 +53,16 @@ powershell
 
 ```schtasks /create /tn "AdvancedCleanup" /tr "C:\path\to\Advanced_Cleanup_Tool.hta" /sc weekly /rl highest```
 
-What's Coming Soon
+## What's Coming Soon
 
-More Automation Features: Advanced scheduling and deeper system cleanup options.
+### Upcoming Features
 
-GitHub Integration: Automatic update notifications and an interactive changelog.
-
-Customization Options: Further configuration settings for a personalized cleanup process.
+- **More Automation Features:**  
+  Advanced scheduling and deeper system cleanup options.
+- **GitHub Integration:**  
+  Automatic update notifications and an interactive changelog.
+- **Customization Options:**  
+  Further configuration settings for a personalized cleanup process.
 
 Feedback & Contributions
 💬 Found a bug or have a suggestion? We welcome your feedback! Please open an Issue or submit a Pull Request in this repository to help us improve Advanced Cleanup Tool.
