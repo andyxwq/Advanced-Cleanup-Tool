@@ -49,9 +49,7 @@ Advanced Cleanup Tool v2.0 transforms the way you manage temporary files, browse
 
 To schedule regular cleanups, you can create a task in Windows. For example:
 
-```powershell
-
-schtasks /create /tn "AdvancedCleanup" /tr "C:\path\to\Advanced_Cleanup_Tool.hta" /sc weekly /rl highest
+powershell ```schtasks /create /tn "AdvancedCleanup" /tr "C:\path\to\Advanced_Cleanup_Tool.hta" /sc weekly /rl highest```
 
 What's Coming Soon
 More Automation Features: Advanced scheduling and deeper system cleanup options.
