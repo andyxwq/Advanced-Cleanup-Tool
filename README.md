@@ -64,10 +64,16 @@ powershell
 - **Customization Options:**  
   Further configuration settings for a personalized cleanup process.
 
-Feedback & Contributions
-💬 Found a bug or have a suggestion? We welcome your feedback! Please open an Issue or submit a Pull Request in this repository to help us improve Advanced Cleanup Tool.
+## Feedback & Contributions
 
-Release Notes
-Important: This version (v2.0) represents a significant upgrade from the previous CLI/BAT tool (v1.1) to a modern, interactive HTA interface. Enjoy an improved experience with real-time feedback, enhanced logging, and a cleaner, more intuitive design.
+💬 **Found a bug or have a suggestion?**  
+We welcome your feedback! Please open an [Issue](#) or submit a [Pull Request](#) in this repository to help us improve Advanced Cleanup Tool.
+
+---
+
+## Release Notes
+
+**Important:**  
+This version (v2.0) represents a significant upgrade from the previous CLI/BAT tool (v1.1) to a modern, interactive HTA interface. Enjoy an improved experience with real-time feedback, enhanced logging, and a cleaner, more intuitive design.
 
 Advanced Cleanup Tool v2.0 is designed to provide a fast, modern, and user-friendly way to keep your Windows system clean and optimized.
