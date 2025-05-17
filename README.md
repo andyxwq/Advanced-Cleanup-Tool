@@ -1,47 +1,68 @@
-Advanced Cleanup Tool v1.1
+# Advanced Cleanup Tool v2.0
 
-🛠 A powerful system cleanup tool for Windows, optimized for speed and efficiency.
+**A powerful system cleanup tool for Windows, now featuring an interactive HTA user interface!**
 
-🚀 **Features**
+---
 
-✅ Optimized CLI Cleanup Script – Improved speed and efficiency. 
+## Overview
 
-✅ RAM Optimization – Automatically restarts Explorer.exe to free up memory.
+Advanced Cleanup Tool v2.0 transforms the way you manage temporary files, browser cache, and other system elements. This release marks a major upgrade from the previous CLI/BAT version to a modern, interactive HTA interface, offering an intuitive, user-friendly experience.
 
-✅ Disk Cleanup & Defragmentation – Integrated cleanmgr and defrag for better system performance. 
+---
 
-✅ Enhanced Logging System – Every cleanup action is now recorded in a log file. 
+## Features
 
-✅ Better Handling of Temporary Files – Safe deletion without affecting system stability. 
+- **Interactive HTA Interface:**  
+  Enjoy a modern graphical interface that replaces the traditional command-line approach.
 
-✅ Updated Browser Cache Cleanup – Efficient removal of old browser cache files.
+- **Dark Mode:**  
+  Toggle dark mode for a more comfortable viewing experience in any lighting conditions.
 
-🔧 **Installation & Usage**
+- **Real-Time Feedback:**  
+  Monitor cleanup progress with a dynamic status bar and animated spinner.
 
-📌 **How to Run**
+- **Enhanced Logging System:**  
+  All cleanup actions are automatically recorded in a log file for detailed review and troubleshooting.
 
-1️⃣ Download Advanced_Cleanup_Tool.bat from the Releases. 
+- **Optimized Cleanup Operations:**  
+  Efficiently remove temporary files and browser cache to boost your system performance.
 
-2️⃣ Right-click on the file → Select Run as Administrator for best results. 
+- **Custom Icon Included:**  
+  The ZIP archive contains a custom icon, giving your application a professional look and making it easy to identify.
 
-3️⃣ Wait for cleanup to complete – The system will free up storage and optimize performance.
+---
 
-⚙️ Optional: Automate with Task Scheduler
+## Installation & Usage
 
-For regular cleanup, you can set up a scheduled task:
+### How to Run
 
-Powershell: "schtasks /create /tn "AdvancedCleanup" /tr "C:\path\to\Advanced_Cleanup_Tool.bat" /sc weekly /rl highest"
+1. **Download:**  
+   Download the `Advanced_Cleanup_Tool.hta` file from the [Releases](#) section.
 
-🚀 **Coming Soon in v2.0!**
+2. **Launch:**  
+   Run the HTA file by double-clicking it, or right-click and select “Open with mshta.exe”.
 
-🔹 Graphical User Interface (GUI) – A visual tool for easy cleanup. 
+3. **Interact:**  
+   Use the interactive menu to select the cleanup options and watch the real-time progress via the status bar.
 
-🔹 Interactive Menu – Choose cleanup options without command lines. 
+### Automating with Task Scheduler (Optional)
 
-🔹 Real-time Progress Bar – Track cleanup operations live.
+To schedule regular cleanups, you can create a task in Windows. For example:
 
-🔹 More Automation Features – Smart scheduling and deeper system cleanup.
+```powershell
+schtasks /create /tn "AdvancedCleanup" /tr "C:\path\to\Advanced_Cleanup_Tool.hta" /sc weekly /rl highest
 
-📩 **Feedback & Contributions**
+What's Coming Soon
+More Automation Features: Advanced scheduling and deeper system cleanup options.
 
-💬 Found a bug or have a suggestion? Open an Issue or submit a Pull Request in the repository! 🚀
+GitHub Integration: Automatic update notifications and an interactive changelog.
+
+Customization Options: Further configuration settings for a personalized cleanup process.
+
+Feedback & Contributions
+💬 Found a bug or have a suggestion? We welcome your feedback! Please open an Issue or submit a Pull Request in this repository to help us improve Advanced Cleanup Tool.
+
+Release Notes
+Important: This version (v2.0) represents a significant upgrade from the previous CLI/BAT tool (v1.1) to a modern, interactive HTA interface. Enjoy an improved experience with real-time feedback, enhanced logging, and a cleaner, more intuitive design.
+
+Advanced Cleanup Tool v2.0 is designed to provide a fast, modern, and user-friendly way to keep your Windows system clean and optimized.
