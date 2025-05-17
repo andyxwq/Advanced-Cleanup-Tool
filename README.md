@@ -2,7 +2,7 @@ Advanced Cleanup Tool v1.1
 
 🛠 A powerful system cleanup tool for Windows, optimized for speed and efficiency.
 
-🚀 Features
+🚀 **Features**
 
 ✅ Optimized CLI Cleanup Script – Improved speed and efficiency. 
 
