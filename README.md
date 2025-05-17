@@ -16,9 +16,9 @@ Advanced Cleanup Tool v1.1
 
 ✅ Updated Browser Cache Cleanup – Efficient removal of old browser cache files.
 
-🔧 Installation & Usage
+🔧 **Installation & Usage**
 
-📌 How to Run
+📌 **How to Run**
 
 1️⃣ Download Advanced_Cleanup_Tool.bat from the Releases. 
 
@@ -32,7 +32,7 @@ For regular cleanup, you can set up a scheduled task:
 
 Powershell: "schtasks /create /tn "AdvancedCleanup" /tr "C:\path\to\Advanced_Cleanup_Tool.bat" /sc weekly /rl highest"
 
-🚀 Coming Soon in v2.0!
+🚀 **Coming Soon in v2.0!**
 
 🔹 Graphical User Interface (GUI) – A visual tool for easy cleanup. 
 
@@ -42,6 +42,6 @@ Powershell: "schtasks /create /tn "AdvancedCleanup" /tr "C:\path\to\Advanced_Cle
 
 🔹 More Automation Features – Smart scheduling and deeper system cleanup.
 
-📩 Feedback & Contributions
+📩 **Feedback & Contributions**
 
 💬 Found a bug or have a suggestion? Open an Issue or submit a Pull Request in the repository! 🚀
